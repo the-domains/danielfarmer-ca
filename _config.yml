@@ -1,7 +1,7 @@
 name: DanielFarmer.ca
 favicon: null
-layout_spectrum: 0.8550367376301438
-typography_spectrum: 0.09364953683689237
+layout_spectrum: 0.24427
+typography_spectrum: 0.74729
 title: Daniel Farmer
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.3803893697913736
-  lightness: 0.825934368185699
-  saturation: 0.2835466102696955
-  rhythmicContrast: 0.3351209801621735
+    - '#21221f'
+    - '#87929d'
+    - '#bdc8d1'
+    - '#d9aa85'
+    - '#69747e'
+  brandStrength: 0.4375
+  lightness: 0.25
+  saturation: 0.5625
+  rhythmicContrast: 0.75
 purpose: []
