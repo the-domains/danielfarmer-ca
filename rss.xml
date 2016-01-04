@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Daniel Farmer]]></title>
         <description><![CDATA[Daniel Farmer]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.danielfarmer.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Dec 2015 04:41:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 04 Jan 2016 02:06:04 GMT</lastBuildDate>
+        <atom:link href="http://www.danielfarmer.ca/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Linkedin Profile </p>]]></description>
+            <link>http://www.danielfarmer.ca/769f637d-6bfe-42c9-beac-ec61cee65b1c/index.html</link>
+            <guid isPermaLink="false">769f637d-6bfe-42c9-beac-ec61cee65b1c</guid>
+            <pubDate>Mon, 04 Jan 2016 02:05:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aff071e5-42e7-49d4-9c23-a9f64a3460ed.jpg">]]></description>
-            <link>undefined26120497-2750-40bc-91b9-8a5e6a2109f4/index.html</link>
+            <link>http://www.danielfarmer.ca/26120497-2750-40bc-91b9-8a5e6a2109f4/index.html</link>
             <guid isPermaLink="false">26120497-2750-40bc-91b9-8a5e6a2109f4</guid>
             <pubDate>Sat, 26 Dec 2015 04:41:32 GMT</pubDate>
         </item>
