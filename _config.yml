@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Linkedin Profile
+    url: 'https://ca.linkedin.com/in/paradigmthinking'
+    type: external
 favicon: null
 title: Daniel Farmer
 description: '♠ Exceeding objectives by challenging status quo ♠ '
