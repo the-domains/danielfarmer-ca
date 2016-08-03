@@ -1,20 +1,4 @@
-name: DanielFarmer.ca
-favicon: null
-layout_spectrum: 0.24427
 typography_spectrum: 0.74729
-title: Daniel Farmer
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-5100962-4
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#21221f'
@@ -26,4 +10,21 @@ color:
   lightness: 0.25
   saturation: 0.5625
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.24427
+analytics:
+  google: UA-5100962-4
+  facebook: null
+  twitter: null
+name: DanielFarmer.ca
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Daniel Farmer
+description: ' ♠ Exceeding objectives by challenging status quo '
 purpose: []
